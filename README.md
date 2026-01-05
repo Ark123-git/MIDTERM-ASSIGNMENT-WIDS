@@ -1,2 +1,2 @@
 # MIDTERM-ASSIGNMENT-WIDS
-Lunar lander -Deep Q Learning problem code
+This project implements a Deep Q-Network (DQN) agent using PyTorch and Gymnasium to solve the LunarLander environment, incorporating experience replay, target networks, Double DQN, and Dueling DQN architectures to improve training stability and performance. The repository includes the main training loop (agent.py), the neural network definition (dqn.py), the replay buffer (experience_replay.py), and configurable hyperparameters (hyperparameters.yml), and the agent can be trained or evaluated using simple command-line arguments.
