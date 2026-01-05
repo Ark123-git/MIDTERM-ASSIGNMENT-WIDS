@@ -2,19 +2,14 @@
 __pycache__/
 *.pyc
 
-
 .env/
-venv/
 lunar_rl/
 
-
 .vscode/
-
 
 runs/
 *.pt
 *.png
 *.log
-
 
 .DS_Store
